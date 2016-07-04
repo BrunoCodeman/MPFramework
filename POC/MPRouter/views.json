@@ -1,0 +1,13 @@
+{
+    "admin": {
+        "standard": "../AppComponents/src/mpconfig/mpconfig.html",
+        "custom": "./AppComponents/src/mpconfig/mpconfig.html",
+        "ticket": "./AppComponents/src/mpconfig/mpconfig.html"
+    },
+
+    "buyer": {
+        "standard": "./AppComponents/src/mpconfig/mpconfig.html",
+        "custom": "./AppComponents/src/mpconfig/mpconfig.html",
+        "ticket": "./AppComponents/src/mpconfig/mpconfig.html"
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"PHP_VERSION": "php5.3.29",
+	"PHP_PATH": "/Applications/MAMP/bin/php/${PHP_VERSION}/bin",
+	"COMPOSER_URL": "https://getcomposer.org/installer",
+	"COMPOSER_PATH":"/Applications/MAMP/bin/php/${PHP_VERSION}/bin/composer.phar",
+	"PHPUNIT_PATH":"/Applications/MAMP/bin/php/${PHP_VERSION}/bin/phpunit.phar",
+	"PHPUNIT_URL":"https://phar.phpunit.de/phpunit-4.8.9.phar",
+	"PATH": "/Applications/MAMP/bin/php/${PHP_VERSION}/bin:$PATH"
+}

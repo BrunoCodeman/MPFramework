@@ -1,0 +1,15 @@
+{
+    "require-dev": {
+    },
+    "autoload": {
+        "classmap": ["vendor", "MPTools", "tests"]
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "require": {
+        "phpunit/phpunit": "^4.8",
+        "phpunit/php-invoker":"~1.1",
+        "phpunit/dbunit": ">=1.2"
+    }
+}

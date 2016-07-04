@@ -1,0 +1,16 @@
+{
+	"standard_payment": {
+		"shipment": {},
+		"payer": {"name": "Fulano",
+				  "email": "test@blablabla.com"}
+	},
+	"custom_payment": {
+		"shipment": {},
+		"payer": {"name": "Fulano",
+				  "email": "test@blablabla.com"}
+	},
+	"ticket_payment": {
+		"shipment": {},
+		"payer": {}
+	}
+}
